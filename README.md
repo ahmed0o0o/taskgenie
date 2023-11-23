@@ -1,5 +1,5 @@
 # ahmed0o0o.github.io
-This Websitewas mainly built usig :
+This Website was mainly built usig :
 html
 Bootstrap
 css
